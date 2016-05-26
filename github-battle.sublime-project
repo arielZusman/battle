@@ -2,15 +2,9 @@
 	"folders":
 	[
 		{
-			"file_exclude_patterns":
-			[
-				"github-battle.sublime-project"
-			],
-			"folder_exclude_patterns":
-			[
-				"node_modules"
-			],
-			"path": "C:\\Users\\arielz\\Documents\\Sandbox\\github-battle"
+			"path": ".",
+			"folder_exclude_patterns": ["node_modules"],
+			"file_exclude_patterns": ["*.sublime*"]
 		}
 	]
 }
